@@ -6,15 +6,15 @@
   <nav class="flex items-center justify-between px-4 md:px-12">
     <!-- Logo -->
     <div class="font-serif text-2xl font-medium tracking-wide uppercase">
-      Saturn
+      Company
     </div>
 
     <!-- Links -->
     <div class="hidden md:flex items-center space-x-8 text-sm text-gray-600 font-medium">
+      <a href="#" class="hover:text-gray-900">Solutions</a>
       <a href="#" class="hover:text-gray-900">Security</a>
-      <a href="#" class="hover:text-gray-900">Customers</a>
+      <a href="#" class="hover:text-gray-900">Integrations</a>
       <a href="#" class="hover:text-gray-900">About us</a>
-      <a href="#" class="hover:text-gray-900">Journal</a>
     </div>
 
     <!-- Action -->
